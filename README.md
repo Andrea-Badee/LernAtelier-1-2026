@@ -1,63 +1,10 @@
-# LernAtelier-1-2026
+## Today's Goals
 
-# H1
-## H2
-### H3
+1. **Finish LernAtelier exercises**
+   Complete the remaining LernAtelier learning tasks (OneDrive setup, folder structure, GitHub/Markdown assignment) and submit the repository link on Moodle by the end of today's session.
 
-**bold text**
+2. **Continue my project**
+   Work on my personal programming project for at least 45 minutes today.
 
-*italicized text*
-
-	> blockquote
-
-1. First item
-2. Second item
-3. Third item
-
-- First item
-- Second item
-- Third item
-
-`code`
-
----
-
-[example](https://www.example.com)
-
-![alt text](image.jpg)
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-### My Great Heading {#custom-id}
-
-term
-: definition
-
-~~The world is flat.~~
-
-	- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-That is so funny! :joy:
-
-I need to highlight these ==very important words==.
-
-H~2~O
-
-X^2^
+3. **Study JavaScript**
+   Spend 30 minutes studying JavaScript basics (e.g. variables, functions, or arrays) using an online tutorial, and write a short summary of what I learned in my notes.
