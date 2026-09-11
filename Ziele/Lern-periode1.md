@@ -75,7 +75,7 @@
 > **Reflexion**
 >
 > Heute habe ich ein neues Projekt in C# gestartet und die Grundstruktur mit Solution und ersten Klassen aufgesetzt.
-> Ausserdem habe ich zwei kleine interaktive Konsolenprogramme geschrieben, um grundlegende Konzepte wie Schleifen,
-> Bedingungen und Methoden zu üben. Zusätzlich habe ich die Formatierung der .md-Datei überarbeitet, um sie ästhetischer
+> Ausserdem habe ich zwei kleine interaktive Programme geschrieben, um grundlegende Konzepte wie Schleifen, Bedingungen und
+> Methoden zu üben. Zusätzlich habe ich die Formatierung der .md Datei überarbeitet, um sie ästhetischer
 > und besser lesbar zu machen, und das Ergebnis mit der vorherigen Version verglichen. Zum Abschluss habe ich ein Tutorial
-> zur UI-Entwicklung in C# (WPF) angeschaut und mir die wichtigsten Konzepte notiert.
+> zur UI Entwicklung in C# angeschaut und mir die wichtigsten Konzepte notiert.
