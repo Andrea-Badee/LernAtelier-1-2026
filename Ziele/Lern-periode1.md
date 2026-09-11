@@ -30,10 +30,15 @@
 - [X] VS Code personalisiert und ein paar nützliche Plugins installiert, wie ErrorLens (für detaillierte Fehlerhinweise),         einen Code-Formatter (Prettier) und ein persönliches Thema einrichten.
 
 
-## Reflexion
-
-Heute habe ich die ersten Schritte des Lernateliermoduls durchgearbeitet und dabei ein GitHub Konto erstellt, ein Repository geschrieben und eine Lern-periode1.mb mit der Planung für den Tag geschrieben. Ausserdem habe ich mein Projekt weitergeführt und zwei neue Funktionen eingefügt: eine Funktion zur Generierung einer Zufallszahl sowie eine Funktion mit Fehlerbehandlung, um mögliche Fehlerfälle sauber abzufangen. Zusätzlich habe ich VS Code weiter personaliert und einige nützliche Plugins installiert, darunter ErrorLens für detaillierte Fehlerhinweise, einen Code-Formatter für sauberen Code sowie ein persönliches Theme. Zum Abschluss habe ich meinen OneDrive syncronisiert und die Dateien nach Projekt sortiert, damit alles besser auffindbar ist.
-
+> **Reflexion**
+>
+> Heute habe ich die ersten Schritte des Lernateliermoduls durchgearbeitet und dabei ein GitHub Konto erstellt, ein
+> Repository geschrieben und eine Lern-periode1.mb mit der Planung für den Tag geschrieben. Ausserdem habe ich mein Projekt
+> weitergeführt und zwei neue Funktionen eingefügt: eine Funktion zur Generierung einer Zufallszahl sowie eine Funktion mit
+> Fehlerbehandlung, um mögliche Fehlerfälle sauber abzufangen. Zusätzlich habe ich VS Code weiter personaliert und einige
+> nützliche Plugins installiert, darunter ErrorLens für detaillierte Fehlerhinweise, einen Code-Formatter für sauberen Code
+> sowie ein persönliches Theme. Zum Abschluss habe ich meinen OneDrive syncronisiert und die Dateien nach Projekt sortiert,
+> damit alles besser auffindbar ist.
 
 ### Planung 28.08.2026
 
@@ -43,11 +48,12 @@ Heute habe ich die ersten Schritte des Lernateliermoduls durchgearbeitet und dab
 - [X] Mich für die OBA Prüfung vorbereiten, mit einen Prüfungsstoff durcharbeiten und Übungsfragen erstellen. Dazu auch           einen Zussamenfassung schreiben und von der Probetest anschauen.
 
 
-## Reflexion
-
-Heute habe ich mit meinem Projket weitergearbeitet und konnte ein paar Fehler, die ich gemacht hatte, korrigieren. Ich bin jedoch nicht dazu gekommen, die geplante Funktion korrekt zu implementieren, deshalb möchte ich nächste Woche weiter daran arbeiten und sie fertigstellen. 
-Danach habe ich eine Kleine Planung für die nächste Woche erstellt, sodass ich mich gezielt auf die Prüfungen vorbereiten kann. Ausserdem steht am Mittwoch meine OBA Prüfung an, und ich muss mich unbedingt verbessern, da ich beim Probetest einige einfache Fehler gemacht habe.
-
+> **Reflexion**
+>
+> Heute habe ich mit meinem Projket weitergearbeitet und konnte ein paar Fehler, die ich gemacht hatte, korrigieren. Ich
+> bin jedoch nicht dazu gekommen, die geplante Funktion korrekt zu implementieren, deshalb möchte ich nächste Woche weiter > daran arbeiten und sie fertigstellen. 
+> Danach habe ich eine Kleine Planung für die nächste Woche erstellt, sodass ich mich gezielt auf die Prüfungen vorbereiten > kann. Ausserdem steht am Mittwoch meine OBA Prüfung an, und ich muss mich unbedingt verbessern, da ich beim Probetest
+> einige einfache Fehler gemacht habe.
 
 ## Planung 04.09.2026
 
