@@ -18,8 +18,8 @@ Diese Blöcke können Sie entfernen oder zur Orientierung stehen lassen.
 8.  Speichern Sie die Datei und publizieren Sie sie (`git push`).
 -->
 
-- Name: Exemplibus Exemplio
-- Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
+- Name: Andrea Stojkov
+- Zeitraum: 23.10.2026 bis 18.12.2026
 
 ## Grob-Planung
 
@@ -29,14 +29,20 @@ Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
 in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 -->
 
-...Ihr Text...
+Im Modul 319 fühle ich mich am sichersten. Im Modul 413 bin ich noch etwas im Rückstand.
+Deshalb bin ich besonders motiviert, regelmässig zu programmieren und meine Kenntnisse
+in diesem Modul zu verbessern.
 
 ### Veränderungen
 <!--
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 -->
 
-...Ihr Text...
+In dieser Lernperiode möchte ich mich besser organisieren und klarer planen, woran ich
+arbeiten muss.
+Bisher habe ich manchmal zu wenig erledigt oder meine Zeit nicht gut eingeteilt, sodass ich
+gewisse Aufgaben nicht rechtzeitig abschliessen konnte. Deshalb möchte ich meine Arbeitsschritte
+im Voraus planen und regelmässig überprüfen, ob ich noch im Zeitplan bin.
 
 ### Projekte / neue Technologien
 <!--
@@ -45,14 +51,22 @@ Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 (Können Sie später nach und nach einfügen.)
 -->
 
-...Ihr Text...
+Ich möchte mehr Programmierpraxis sammeln und lernen, Probleme mit einfachem Code zu lösen.
+Dabei möchte ich sicherer im Programmieren werden und meine Kenntnisse in Python und C#
+verbessern.
+Später möchte ich vielleicht auch JavaScript lernen und meine Programmierkenntnisse um eine
+weitere Programmiersprache erweitern.
 
 ### Generelle Ziele
 <!--
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 -->
 
-...Ihr Text...
+- Ich möchte meine Arbeit besser organisieren und meine Aufgaben im Voraus planen.
+- Ich möchte zügiger arbeiten und meine Aufgaben innerhalb der vorgesehenen Zeit abschliessen.
+- Ich möchte mehr Sicherheit beim Programmieren gewinnen und meine Kenntnisse in Python und C#
+  vertiefen.
+- Ich möchte eigene kleine Programme und Projekte entwickeln.
 
 ## Tagesplanungen
 <!--
@@ -64,7 +78,7 @@ Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
 absence, absent, Absenz, abwesend, krank, Krankheit.
 -->
 
-### Planung tt.mm.jjjj
+### Planung 23.10.2026
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
 Umfang: ca. 30 - 60 Minuten je Arbeitspaket
@@ -75,9 +89,12 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [x] Erste Stunde, die Organisation für heute in der .md fertigstellen.
+- [x] Danach, an den Aufgaben im Modul 413 weiterarbeiten und sie für die
+      Abgabe nächste Woche vorbereiten.
+- [x] Letzte zwei Stunden mit Programmieren beschäftigen und einige Videos
+      anschauen, um mich sehr gut auf die Abschlussprüfung im Modul 319
+      nächste Woche vorzubereiten.
 
 
 #### Tagesreflexion
