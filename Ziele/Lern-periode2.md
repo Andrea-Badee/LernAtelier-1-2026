@@ -130,6 +130,23 @@ genommen habe, anstatt zu hetzen. Mit den Ergebnissen bin ich zufrieden.
 Für die Zukunft nehme ich mit, dass ein realistisch geplanter Tag zu besserer Konzentrationd und
 besseren Resultaten führt.
 
+### Planung 06.11.2026
+
+- [ ] Die gemeinsame Nutzung und Zusammenarbeit am Unity Projekt mit meinen
+      Projektpartern fertig einrichten und verbessern.
+- [x] Ein grundlegendes Unity Tutorial abschliessen, um die Entwicklungs-
+      umgebung besser kennenzulernen.
+- [ ] Weitere Unity Tutorials bearbeiten und besser verstehen, wie die ver-
+      schiedenen Funktionen und die Environment funktioniert.
+- [X] Einige LeetCode Aufgaben lösen, um meine Programmierkenntnisse und mein
+      logisches Denken zu verbessern.
+- [ ] Die offenen Aufgaben im Modul 416 weiterbearbeiten und möglichst abschliessen.
+
+
+#### Tagesreflexion
+
+Heute konnte ich leider nicht so viel erledigen, wie ich ursprünglich geplant hatte. Ich konnte zwar ein grundlegendes Tutorial zu Unity abschliessen, jedoch nicht die Einrichtung der gemeinsamen Projektarbeit mit meinen Partnern. Dafür habe ich relativ viel Zeit benötigt, um eine passende Lösung zu finden. Aus diesem Grund konnte ich bei der LeetCode-Aufgabe nur einen Teil bearbeiten und bin auch mit den Aufgaben im Modul 416 nicht weitergekommen. Für die nächsten Arbeitstage möchte ich versuchen, solche technischen Probleme effizienter zu lösen und meine Zeit besser einzuteilen.
+
 ## Lernperiode Reflexion
 <!--
 Am Ende der Lernperiode schreiben Sie eine Reflexion über die gesamte Lernperiode.
